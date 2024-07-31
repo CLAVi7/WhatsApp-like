@@ -1,0 +1,15 @@
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\bin\Debug\net8.0\cliente.exe
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\bin\Debug\net8.0\cliente.deps.json
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\bin\Debug\net8.0\cliente.runtimeconfig.json
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\bin\Debug\net8.0\cliente.dll
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\bin\Debug\net8.0\cliente.pdb
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\obj\Debug\net8.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\obj\Debug\net8.0\cliente.AssemblyInfoInputs.cache
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\obj\Debug\net8.0\cliente.AssemblyInfo.cs
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\obj\Debug\net8.0\cliente.csproj.CoreCompileInputs.cache
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\obj\Debug\net8.0\cliente.sourcelink.json
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\obj\Debug\net8.0\cliente.dll
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\obj\Debug\net8.0\refint\cliente.dll
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\obj\Debug\net8.0\cliente.pdb
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\obj\Debug\net8.0\cliente.genruntimeconfig.cache
+C:\Users\pariv\OneDrive\Documentos\GitHub\WhatsApp-like\cliente\obj\Debug\net8.0\ref\cliente.dll
