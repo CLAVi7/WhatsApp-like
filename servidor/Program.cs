@@ -36,7 +36,7 @@ class Client
         Socket listener = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
         listener.Bind(endpoint); // Vincula el socket al endpoint de escucha
-        listener.Listen(10); // Comienza a escuchar hasta 10 conexiones entrantes
+        listener.Listen(1000); // Comienza a escuchar hasta 10 conexiones entrantes
 
         Console.WriteLine($"Escuchando en el puerto {listenPort}...");
 
